@@ -1,0 +1,6 @@
+build/
+minios
+run_tests
+*.o
+*.dSYM/
+.DS_Store
